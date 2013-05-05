@@ -6,6 +6,8 @@ A little PHP library I wrote **many** years ago that dumps PHP variables in a re
 I'll keep it here for my own use. I won't be developed further because nowadays there's much better stuff 
 around and also because I lost all my unit-tests :(
 
+**Project URL: [https://github.com/tacone/xdump/](https://github.com/tacone/xdump/)**
+
 Use
 ====
 
